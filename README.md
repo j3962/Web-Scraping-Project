@@ -45,5 +45,5 @@ Had to add the current page no tow the end of my html string as https://business
 
 Another tricky part was just taking 'Professors' as the website had staff, lecturer and everyone else. But, only professors were useful in my case, thus I had to filter out everyone else besides 'Professor'
 
-After, successfull extraction I wrote a generic mail across the department! The profs will never know what hit em, Hahahahahahaah (evil luaghter)
+After, successfull extraction I wrote a generic mail across the department! The profs never knww what hit em, Hahahahahahaah (evil luaghter)
 
