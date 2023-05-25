@@ -1,4 +1,4 @@
-# PythonProject
+# Web Scraping with Python
 
 # Setup for developement:
 
@@ -44,3 +44,6 @@ After finding total no of pages. The rest of the job was pretty easy. I iterated
 Had to add the current page no tow the end of my html string as https://business.sdsu.edu/about/faculty-staff-listing?page=3
 
 Another tricky part was just taking 'Professors' as the website had staff, lecturer and everyone else. But, only professors were useful in my case, thus I had to filter out everyone else besides 'Professor'
+
+After, successfull extraction I wrote a generic mail across the department! The profs will never know what hit em, Hahahahahahaah (evil luaghter)
+
