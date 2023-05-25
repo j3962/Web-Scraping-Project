@@ -21,7 +21,7 @@
 
 `pre-commit run --all-files`
 
-Aim of the project: To scrape email id of all the professors in the MIS department of SDSU.
+# Aim of the project: To scrape email id of all the professors in the MIS department of SDSU.
 
 It's the summer of 2023, and I don't have an internship yet. Now, I am mailing all the professors for work. Cause I neeeddd Moneyy $$$.
 I choose the MIS department as they have the most funding of all departments at SDSU.
