@@ -31,11 +31,11 @@ Anyways, I switched focus to scraping all the professors name.
 
 Mis faculty listing website [Link](https://business.sdsu.edu/about/faculty-staff-listing):
 
-![Faculty list](readme_imgs/faculty_pg.png)
+![Faculty list](faculty_pg.png)
 
 MIS faculty website inspect element:
 
-![insp](readme_imgs/mis_web_insp.png)
+![insp](mis_web_insp.png)
 
 If you look closely, the pattern is quite easy to see. All the professors detail are in a grid. I just need to access the grid first.
 But, before that: The website is paginated! And each page had only 4 faculty. So, I had to first find the total no of pages.
